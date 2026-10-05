@@ -30,6 +30,10 @@ Nucleus — это лёгкий командный центр, который ж
 рядом с приложением.
 
 ---
+## Скриншоты
+<img width="1005" height="657" alt="image" src="https://github.com/user-attachments/assets/decb91ba-58aa-4ad8-ad5b-c832d1929485" />
+<img width="1007" height="251" alt="image" src="https://github.com/user-attachments/assets/da13dbe8-1ff1-48ac-9f75-b183f0244337" />
+
 
 ## <img src="https://api.iconify.design/lucide:rocket.svg?color=%23C6FF4A" width="22"/> Установка
 

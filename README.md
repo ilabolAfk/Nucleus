@@ -33,6 +33,16 @@ Nucleus — это лёгкий командный центр, который ж
 ## Скриншоты
 <img width="1005" height="657" alt="image" src="https://github.com/user-attachments/assets/decb91ba-58aa-4ad8-ad5b-c832d1929485" />
 <img width="1007" height="251" alt="image" src="https://github.com/user-attachments/assets/da13dbe8-1ff1-48ac-9f75-b183f0244337" />
+<img width="1019" height="865" alt="image" src="https://github.com/user-attachments/assets/32be884b-58dc-47ce-a1fa-cf3c6e95c953" />
+<img width="1013" height="868" alt="image" src="https://github.com/user-attachments/assets/1f4269ca-41b2-40a8-a31a-0306dd803f83" />
+<img width="1016" height="864" alt="image" src="https://github.com/user-attachments/assets/6f8990c4-fa13-4dfa-a749-022429a970dc" />
+<img width="998" height="854" alt="image" src="https://github.com/user-attachments/assets/a3364c9f-4b9d-49ca-a5dd-667976ef3231" />
+<img width="1021" height="862" alt="image" src="https://github.com/user-attachments/assets/f5408229-5df7-4208-92d6-c215e4dc56a4" />
+<img width="1015" height="862" alt="image" src="https://github.com/user-attachments/assets/8f3c9ebf-8ace-4703-a929-46b3355b1895" />
+<img width="1028" height="880" alt="image" src="https://github.com/user-attachments/assets/1a475fa6-41f2-499e-864c-0e3cf23e3180" />
+<img width="1041" height="265" alt="image" src="https://github.com/user-attachments/assets/6d9d2387-aa93-48a2-9b78-bf55733ed3a2" />
+<img width="1007" height="256" alt="image" src="https://github.com/user-attachments/assets/dc729135-f77a-4a0b-982e-b98bb11b5477" />
+<img width="909" height="342" alt="image" src="https://github.com/user-attachments/assets/ce2dfc5c-6516-4b0c-8519-4f2998a71d67" />
 
 
 ## <img src="https://api.iconify.design/lucide:rocket.svg?color=%23C6FF4A" width="22"/> Установка

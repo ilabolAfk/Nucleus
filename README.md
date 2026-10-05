@@ -42,7 +42,6 @@ Nucleus — это лёгкий командный центр, который ж
 <img width="1028" height="880" alt="image" src="https://github.com/user-attachments/assets/1a475fa6-41f2-499e-864c-0e3cf23e3180" />
 <img width="1041" height="265" alt="image" src="https://github.com/user-attachments/assets/6d9d2387-aa93-48a2-9b78-bf55733ed3a2" />
 <img width="1007" height="256" alt="image" src="https://github.com/user-attachments/assets/dc729135-f77a-4a0b-982e-b98bb11b5477" />
-<img width="909" height="342" alt="image" src="https://github.com/user-attachments/assets/ce2dfc5c-6516-4b0c-8519-4f2998a71d67" />
 
 
 ## <img src="https://api.iconify.design/lucide:rocket.svg?color=%23C6FF4A" width="22"/> Установка

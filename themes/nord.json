@@ -1,0 +1,11 @@
+{
+  "name": "Nord",
+  "ACCENT": "#88C0D0",
+  "CARD":   "#2E3440",
+  "BG":     "#242933",
+  "PANEL":  "#3B4252",
+  "DIM":    "#616E88",
+  "TEXT":   "#ECEFF4",
+  "SUB":    "#D8DEE9",
+  "LINE":   "#434C5E"
+}

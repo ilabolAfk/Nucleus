@@ -1,0 +1,11 @@
+{
+  "name": "Matrix",
+  "ACCENT": "#00FF88",
+  "CARD":   "#0A0F0A",
+  "BG":     "#050805",
+  "PANEL":  "#0E1A0E",
+  "DIM":    "#2A4A2A",
+  "TEXT":   "#C8FFC8",
+  "SUB":    "#7DBA7D",
+  "LINE":   "#1A2E1A"
+}

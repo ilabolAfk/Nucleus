@@ -1,0 +1,11 @@
+{
+  "name": "Acid",
+  "ACCENT": "#C6FF4A",
+  "CARD":   "#111112",
+  "BG":     "#0B0B0C",
+  "PANEL":  "#0E0E10",
+  "DIM":    "#4A4A4A",
+  "TEXT":   "#E8E8E8",
+  "SUB":    "#8A8A8A",
+  "LINE":   "#1C1C1E"
+}

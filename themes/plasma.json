@@ -1,0 +1,11 @@
+{
+  "name": "Plasma",
+  "ACCENT": "#E0AAFF",
+  "CARD":   "#15101C",
+  "BG":     "#0B0710",
+  "PANEL":  "#1C1428",
+  "DIM":    "#4A3D5A",
+  "TEXT":   "#F0E6FF",
+  "SUB":    "#B49DCC",
+  "LINE":   "#2A1F3A"
+}
